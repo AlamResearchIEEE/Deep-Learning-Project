@@ -11,7 +11,6 @@ https://www.kaggle.com/datasets/kandij/diabetes-dataset
 After the collection of the dataset, I applied the following steps to build deep learning models and predict accuracy.  
 ![alt text](https://github.com/AlamResearchIEEE/Deep-Learning-Project/blob/main/Flow%20diagram.jpg)
 
-
 We have evaluated several machine learning models trained with algorithms such as Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, Multinomial Naïve Bayes, K Neighrest Neighbors, and Stochastic Gradient Descent algorithm to predict diabetes and heart diseases.  
 The outcomes of the experiment are shown in the result section. 
 
