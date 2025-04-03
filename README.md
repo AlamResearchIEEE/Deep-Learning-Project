@@ -4,7 +4,7 @@
 Nowadays, Diabetes is the most common disease in humans. People having diabetes have a high risk of other diseases such as heart disease, kidney disease, stroke, etc. Therefore, Early-stage prediction of diabetes has significant importance in the health sector.  This study aims to create a clinical support system that will help to diagnose diabetes disease at the primary stage. In this study, We have proposed a model to predict diabetes disease more accurately using Build the RNN Model (LSTM with Dropout).
 
 ## Dataset
-We have collected datasets from Kaggle. The diabetes dataset contains 768 instances. Each instance has 9 features. There are 1025 instances and 14 features in the heart dataset [2]
+We have collected datasets from Kaggle. The diabetes dataset contains 768 instances. Each instance has 9 features.
 https://www.kaggle.com/datasets/kandij/diabetes-dataset
 
 ## Methodology
